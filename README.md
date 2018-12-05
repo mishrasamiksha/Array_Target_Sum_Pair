@@ -7,3 +7,5 @@ Sample Output: 1 and 4 2 and 3
 Explanation: Find any pair of elements in the array which has sum equal to target element and print them.
 
 Concept used : Basic sorting Technique
+
+Language used : cpp
